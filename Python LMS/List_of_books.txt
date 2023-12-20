@@ -1,0 +1,19 @@
+Algorithms and Data Structures in C++ by alan parker
+Discrete Event Simulation: A Practical Approach by Udo W. Pooch, James A. Wall
+Algorithms to Live By: The Computer Science of Human Decisions by Brian Christian, Tom Griffiths
+Introduction to Algorithm by Thomas. H. Cormen
+The C Programming Language by Brian W. Kernighan
+The Soul of a New Machine by Tracy Kidder
+Superintelligence: Path, Dangers, Strategies by Nick Bostrom
+Codes: The Hidden Language of the Computer Hardware and software by Charles Petzold
+Object-Oriented Analysis and Design by sidharth santosh
+Computational Number Theory and Digital Signal Processing: Fast Algorithms and Error Control Techniques by By Hari Krishna, Bal Krishna, Kuo-Yu Lin, Jenn-Dong Sun
+Distributed Simulation by John A. Hamilton, David A. Nash, Udo W. Pooch
+A Programmer,s Perspective by Bryant & O,Hallaron 
+Structured Computer Organization by Andrew Tanenbaum and Todd Austin 
+Beginner’s Guide to Engineering: Computer Engineering by James Lance
+Essentials of Computer Organization and Architecture by Linda Null
+Deep Learning for Computer Architects by Brandon Reagen
+Modern Processor Design: Fundamentals of Superscalar Processors by John Shen
+Computer Organization and Design: The Hardware/Software Interface by David Patterson and John Hennessy
+   

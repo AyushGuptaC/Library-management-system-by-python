@@ -1,0 +1,15 @@
+{
+	"folders": [],
+	"settings": {
+		"C_Cpp.autocompleteAddParentheses": false
+	},
+	"launch": {
+		"version": "0.2.0",
+		"configurations": []
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools"
+		]
+	}
+}
